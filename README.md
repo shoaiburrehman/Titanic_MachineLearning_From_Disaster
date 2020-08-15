@@ -8,13 +8,13 @@
 
 ## Resources We Used
 
+* Jupyter Notebook.
 * We used pandas, numpy, sklearn, matplotlib, seaborn packages.
 * Dataset link: https://www.kaggle.com/c/titanic/overview
 
 
 ## Data Cleaning and Exploratory Data Analysis
 
-* Jupyter Notebook.
 * We analyzed and cleaned this dataset so it can be usable for our model
 * And in EDA part, we simplified our data and analyzed different value counts through graphs also through pivot table
 
