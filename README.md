@@ -3,8 +3,8 @@
 * This is the Repository for Kaggle Competition, Titanic: Machine Learning From Disaster. 
 * It is based on train and test dataset.
 * We did Exploratory Data Analysis and Feature Engineering of survivals from different perspectives
-* For our model building we used are Random Forest Classifier, Decision Tree Classifier, Support Vector Machine (SVM), K -Nearest Neighbors, Decision Tree, Gaussian Naive Bayes and Voting Classifier
-
+* For our model building we used are Random Forest Classifier, Decision Tree Classifier, Support Vector Machine (SVM), K -Nearest Neighbors, Decision Tree, Gaussian Naive Bayes and Voting Classifier.
+* Also did Data Visualization in **Tableau Public**, here is the dashboard link: https://public.tableau.com/profile/shoaiburrehman#!/vizhome/KagglesTitanicSurvivalReport/TitanicSurvivorsDashboard
 
 ## Resources We Used
 
